@@ -32,7 +32,8 @@
         },
         "1317245897981165719": {
             "discord_name": "jolcano#0",
-            "SWORD": "LT5"
+            "SWORD": "LT5",
+            "UHC": "HT4"
         },
         "691328576212959248": {
             "discord_name": "_unknown_1414#0",
@@ -41,6 +42,19 @@
         "826361691594817536": {
             "discord_name": "koharux#0",
             "SWORD": "HT4"
+        },
+        "456880179910803477": {
+            "discord_name": "luka_s4#0",
+            "MACE": "LT3"
+        },
+        "903399727993851935": {
+            "discord_name": "marianoqds#0",
+            "MACE": "LT3"
+        },
+        "1321183231986368546": {
+            "discord_name": "ilhiam12_03643#0",
+            "CPVP": "LT4",
+            "UHC": "LT4"
         }
     },
     "ranking_message_id": 1427820795152826430
