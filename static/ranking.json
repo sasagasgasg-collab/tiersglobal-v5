@@ -41,7 +41,8 @@
         },
         "826361691594817536": {
             "discord_name": "koharux#0",
-            "SWORD": "HT4"
+            "SWORD": "HT4",
+            "UHC": "HT5"
         },
         "456880179910803477": {
             "discord_name": "luka_s4#0",
@@ -94,6 +95,24 @@
             "SWORD": "LT4",
             "UHC": "HT5",
             "NETHPOT": "LT4"
+        },
+        "1365514388299321404": {
+            "discord_name": "mwakk#0",
+            "CPVP": "HT3",
+            "SWORD": "HT5"
+        },
+        "866542967334240266": {
+            "discord_name": "ylosskibidisylostoulets#0",
+            "UHC": "LT3",
+            "SWORD": "HT5"
+        },
+        "1318133876534673408": {
+            "discord_name": "yahirpo#0",
+            "UHC": "HT3"
+        },
+        "1341431829982351391": {
+            "discord_name": "lukita22sk#0",
+            "UHC": "LT5"
         }
     },
     "ranking_message_id": 1427820795152826430
